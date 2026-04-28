@@ -25,9 +25,8 @@ title: Henry Wentworth Akeley Vermont Folklore Collection
 tagline: A collection created from the works and journey of Dr. Akeley during his travels through the regions of Vermont
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: This collection contains materials on the history and folklore of the people of Vermont, categized by the 14 regions of Vermont
+author: Dr. Henry Wentworth Akeley
 
 ##########
 # COLLECTION SETTINGS
@@ -40,7 +39,7 @@ metadata: psychiana_cbdemo_gh
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+# organization-name: "Miskatonic University"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
